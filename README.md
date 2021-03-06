@@ -1,8 +1,8 @@
 [![Header banner](https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/header-banner.gif)](https://www.denzeltl.com)
 
 <div align="center">
-<a href="https://www.denzeltl.com"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/web-icon.svg"></a>&nbsp;&nbsp;
-<a href="mailto:denzeltlee@gmail.com"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/email-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://www.denzeltl.com"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/web-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:denzeltlee@gmail.com"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/email-icon.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/denzeltl"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/linkedin-icon.svg"></a>
 </div>
 
