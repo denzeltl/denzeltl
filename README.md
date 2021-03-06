@@ -6,14 +6,14 @@
 <a href="https://www.linkedin.com/in/denzeltl"><img height="30" src="https://raw.githubusercontent.com/denzeltl/denzeltl/main/assets/linkedin-icon.svg"></a>
 </div>
 
-## Hello there 👋
+## Hello 👋
 
 I’m a web developer based in Quezon City, Philippines. I enjoy creating well-designed, responsive, and accessible websites by means of writing clean and maintainable code.
 
 ## GitHub Stats 📈
 
-[![denzeltl's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=denzeltl&hide=stars,issues,contribs&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&bg_color=101d42&text_color=ffffff&title_color=f18805)](https://github-readme-stats.vercel.app/api/?username=denzeltl&hide=stars,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&bg_color=101d42&text_color=ffffff&title_color=f18805)
 [![denzeltl's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=denzeltl&langs_count=6&hide=ruby&layout=compact&hide_border=true&bg_color=101d42&text_color=ffffff&title_color=f18805)](https://github-readme-stats.vercel.app/api/top-langs/?username=denzeltl&langs_count=6&hide=ruby&layout=compact&hide_border=true&bg_color=101d42&text_color=ffffff&title_color=f18805)
+[![denzeltl's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=denzeltl&hide=stars,issues,contribs&include_all_commits=true&hide_border=true&custom_title=Activity%20Overview&count_private=true&show_icons=true&bg_color=101d42&text_color=ffffff&title_color=f18805)](https://github-readme-stats.vercel.app/api/?username=denzeltl&hide=stars,issues,contribs&include_all_commits=true&hide_border=true&custom_title=Activity%20Overview&count_private=true&show_icons=true&bg_color=101d42&text_color=ffffff&title_color=f18805)
 
 ## Frameworks & Tools 🔧
 
