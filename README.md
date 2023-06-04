@@ -19,8 +19,8 @@ I’m a web developer based in Quezon City, Philippines. I enjoy creating well-d
 
 [![React](https://img.shields.io/badge/React--React?style=flat&logo=react&logoColor=white&color=f18805)](https://img.shields.io/badge/React--React?style=flat&logo=react&logoColor=white&color=f18805)&nbsp;
 [![Next.js](https://img.shields.io/badge/Next.js--Next?style=flat&logo=next.js&logoColor=white&color=f18805)](https://img.shields.io/badge/Next.js--Next?style=flat&logo=next.js&logoColor=white&color=f18805)&nbsp;
-[![Material UI](https://img.shields.io/badge/Material%20UI--Material%20UI?style=flat&logo=mui&logoColor=white&color=f18805)](https://img.shields.io/badge/Material%20UI--Material%20UI?style=flat&logo=mui&logoColor=white&color=f18805)&nbsp;
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS--Tailwind%20CSS?style=flat&logo=tailwind-css&logoColor=white&color=f18805)](https://img.shields.io/badge/Tailwind%20CSS--Tailwind%20CSS?style=flat&logo=tailwind-css&logoColor=white&color=f18805)&nbsp;
+[![Material UI](https://img.shields.io/badge/Material%20UI--Material%20UI?style=flat&logo=mui&logoColor=white&color=f18805)](https://img.shields.io/badge/Material%20UI--Material%20UI?style=flat&logo=mui&logoColor=white&color=f18805)&nbsp;
 [![Git](https://img.shields.io/badge/Git--Git?style=flat&logo=git&logoColor=white&color=f18805)](https://img.shields.io/badge/Git--Git?style=flat&logo=git&logoColor=white&color=f18805)&nbsp;
 [![npm](https://img.shields.io/badge/npm--npm?style=flat&logo=npm&logoColor=white&color=f18805)](https://img.shields.io/badge/npm--npm?style=flat&logo=npm&logoColor=white&color=f18805)&nbsp;
 [![Netlify](https://img.shields.io/badge/Netlify--Netlify?style=flat&logo=netlify&logoColor=white&color=f18805)](https://img.shields.io/badge/Netlify--Netlify?style=flat&logo=netlify&logoColor=white&color=f18805)&nbsp;
